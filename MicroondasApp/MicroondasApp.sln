@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroondasApp", "MicroondasApp.csproj", "{C3B16383-8B02-48EF-AD08-38FB35814FB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B16383-8B02-48EF-AD08-38FB35814FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B16383-8B02-48EF-AD08-38FB35814FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B16383-8B02-48EF-AD08-38FB35814FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B16383-8B02-48EF-AD08-38FB35814FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D80F683B-8B9A-4EA9-9D63-2923E9A5FD3B}
+	EndGlobalSection
+EndGlobal
