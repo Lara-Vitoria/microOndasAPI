@@ -9,5 +9,6 @@ namespace MicroondasApp.Persistence
         : base(options) { }
 
         public DbSet<MicroOndas> MicroOndas => Set<MicroOndas>();
+        public DbSet<Programas> Programas => Set<Programas>();
     }
 }
